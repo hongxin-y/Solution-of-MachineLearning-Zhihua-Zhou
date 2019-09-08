@@ -2,7 +2,7 @@
 
 Here is my own solution of coding problems in "Machine Learning" by Zhihua Zhou, including the establishment of simple models like Logistic Regression and Decision Tree, and maybe some complex model using framwork.
 
-# Completion List
+# Completed List
 ## Chapter 3 (Linear Models)
 + 3.3
 + 3.4
